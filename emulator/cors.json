@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://app.shaban.keenetic.pro"],
+      "method": ["GET", "PUT"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+]

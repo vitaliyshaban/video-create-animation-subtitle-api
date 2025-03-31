@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "sourceMap": false,
+    "strict": true,
+    "target": "es6"
+  },
+  "compileOnSave": true,
+  "include": ["src/*.ts"],
+  "exclude": ["node_modules"]
+}
